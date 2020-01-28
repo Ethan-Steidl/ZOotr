@@ -1,0 +1,211 @@
+Fire Temple Lower, 7
+Fire Temple Big Lava Room, 3
+Fire Temple Middle, 10
+Fire Temple Upper, 2
+Bottom of the Well, 0
+Bottom of the Well Main Area, 19
+Deku Tree Lobby, 10
+Deku Tree Slingshot Room, 2
+Deku Tree Boss Room, 2
+Dodongos Cavern Beginning, 0
+Dodongos Cavern Lobby, 8
+Dodongos Cavern Climb, 4
+Dodongos Cavern Far Bridge, 3
+Dodongos Cavern Boss Area, 5
+Forest Temple Lobby, 5
+Forest Temple NW Outdoors, 3
+Forest Temple NE Outdoors, 4
+Forest Temple Outdoors High Balconies, 2
+Forest Temple Falling Room, 1
+Forest Temple Block Push Room, 1
+Forest Temple Straightened Hall, 1
+Forest Temple Outside Upper Ledge, 1
+Forest Temple Bow Region, 3
+Forest Temple Boss Region, 4
+Ganons Castle Lobby, 0
+Ganons Castle Deku Scrubs, 5
+Ganons Castle Forest Trial, 1
+Ganons Castle Fire Trial, 0
+Ganons Castle Water Trial, 4
+Ganons Castle Shadow Trial, 2
+Ganons Castle Spirit Trial, 3
+Ganons Castle Light Trial, 8
+Gerudo Training Grounds Lobby, 4
+Gerudo Training Grounds Central Maze, 5
+Gerudo Training Grounds Central Maze Right, 3
+Gerudo Training Grounds Lava Room, 1
+Gerudo Training Grounds Hammer Room, 2
+Gerudo Training Grounds Eye Statue Lower, 1
+Gerudo Training Grounds Eye Statue Upper, 1
+Gerudo Training Grounds Heavy Block Room, 1
+Gerudo Training Grounds Like Like Room, 4
+Ice Cavern Beginning, 0
+Ice Cavern, 9
+Jabu Jabus Belly Beginning, 0
+Jabu Jabus Belly Main, 6
+Jabu Jabus Belly Depths, 2
+Jabu Jabus Belly Boss Area, 4
+Root, 1
+Root Exits, 0
+Kokiri Forest, 7
+Outside Deku Tree, 4
+Links House, 1
+Mido House, 4
+Saria House, 0
+House of Twins, 0
+Know It All House, 0
+Kokiri Shop, 8
+Lost Woods Forest Exit, 0
+Lost Woods, 9
+Lost Woods Beyond Mido, 5
+Sacred Forest Meadow Entryway, 0
+Sacred Forest Meadow, 7
+Lost Woods Bridge From Forest, 1
+Lost Woods Bridge, 0
+Hyrule Field, 3
+Lake Hylia, 15
+Lake Hylia Owl Flight, 0
+Lake Hylia Lab, 2
+Fishing Hole, 2
+Gerudo Valley, 2
+Gerudo Valley Stream, 6
+Gerudo Valley Crate Ledge, 1
+Gerudo Valley Far Side, 3
+Carpenter Tent, 0
+Gerudo Fortress, 10
+Gerudo Fortress Outside Gate, 0
+Haunted Wasteland Near Fortress, 0
+Haunted Wasteland, 5
+Haunted Wasteland Near Colossus, 0
+Desert Colossus, 9
+Colossus Fairy, 1
+Castle Town Entrance, 0
+Castle Town, 0
+Temple of Time Exterior, 5
+Temple of Time, 1
+Beyond Door of Time, 2
+Castle Grounds, 0
+Hyrule Castle Grounds, 7
+Hyrule Castle Garden, 2
+Hyrule Castle Fairy, 1
+Ganons Castle Grounds, 1
+Ganons Castle Fairy, 1
+Castle Town Rupee Room, 2
+Castle Town Bazaar, 8
+Castle Town Mask Shop, 0
+Castle Town Shooting Gallery, 1
+Castle Town Bombchu Bowling, 3
+Castle Town Potion Shop, 8
+Castle Town Treasure Chest Game, 1
+Castle Town Bombchu Shop, 8
+Castle Town Dog Lady, 1
+Castle Town Man in Green House, 0
+Kakariko Village, 10
+Kakariko Impa Ledge, 0
+Kakariko Rooftop, 1
+Kakariko Village Backyard, 0
+Carpenter Boss House, 0
+House of Skulltula, 5
+Impas House, 0
+Impas House Back, 1
+Impas House Near Cow, 1
+Windmill, 2
+Kakariko Bazaar, 8
+Kakariko Shooting Gallery, 1
+Kakariko Potion Shop Front, 8
+Kakariko Potion Shop Back, 0
+Odd Medicine Building, 0
+Graveyard, 7
+Shield Grave, 2
+Heart Piece Grave, 1
+Composer Grave, 2
+Dampes Grave, 3
+Dampes House, 0
+Shadow Temple Warp Region, 2
+Kakariko Village Behind Gate, 0
+Death Mountain, 6
+Death Mountain Summit, 5
+Death Mountain Summit Owl Flight, 0
+Dodongos Cavern Entryway, 0
+Goron City, 13
+Goron City Woods Warp, 0
+Darunias Chamber, 1
+Goron Shop, 8
+Death Mountain Crater Upper Nearby, 0
+Death Mountain Crater Upper Local, 4
+Death Mountain Crater Ladder Area Nearby, 1
+Death Mountain Crater Lower Nearby, 0
+Death Mountain Crater Lower Local, 0
+Death Mountain Crater Central Nearby, 2
+Death Mountain Crater Central Local, 2
+Fire Temple Entrance, 0
+Crater Fairy, 1
+Mountain Summit Fairy, 1
+Zora River Front, 1
+Zora River, 14
+Zora River Behind Waterfall, 0
+Zoras Domain, 10
+Zoras Domain Behind King Zora, 0
+Zoras Fountain, 9
+Zora Shop, 8
+Zoras Fountain Fairy, 1
+Lon Lon Ranch, 5
+Talon House, 1
+Ingo Barn, 2
+Lon Lon Corner Tower, 3
+Ganons Castle Tower, 3
+Gerudo Fortress Storms Grotto, 1
+Zoras Domain Storms Grotto, 1
+Kokiri Forest Storms Grotto, 6
+Lost Woods Generic Grotto, 6
+Deku Theater, 2
+Lost Woods Sales Grotto, 2
+Meadow Fairy Grotto, 1
+Meadow Storms Grotto, 2
+Front of Meadow Grotto, 1
+Lon Lon Grotto, 3
+Remote Southern Grotto, 6
+Field Near Lake Outside Fence Grotto, 6
+Field Near Lake Inside Fence Grotto, 1
+Field Valley Grotto, 6
+Field West Castle Town Grotto, 6
+Field Far West Castle Town Grotto, 1
+Field Kakariko Grotto, 1
+Field North Lon Lon Grotto, 1
+Castle Storms Grotto, 5
+Kakariko Bombable Grotto, 1
+Kakariko Back Grotto, 6
+Mountain Bombable Grotto, 1
+Mountain Storms Grotto, 6
+Goron City Grotto, 3
+Top of Crater Grotto, 6
+DMC Hammer Grotto, 3
+Zora River Plateau Open Grotto, 6
+Zora River Plateau Bombable Grotto, 1
+Zora River Storms Grotto, 2
+Lake Hylia Grotto, 3
+Desert Colossus Grotto, 2
+Gerudo Valley Octorok Grotto, 0
+Gerudo Valley Storms Grotto, 2
+Shadow Temple Entryway, 0
+Shadow Temple Beginning, 3
+Shadow Temple First Beamos, 2
+Shadow Temple Huge Pit, 10
+Shadow Temple Wind Tunnel, 4
+Shadow Temple Beyond Boat, 6
+Spirit Temple Lobby, 0
+Child Spirit Temple, 4
+Child Spirit Temple Climb, 3
+Early Adult Spirit Temple, 5
+Spirit Temple Central Chamber, 6
+Spirit Temple Outdoor Hands, 2
+Spirit Temple Beyond Central Locked Door, 3
+Spirit Temple Beyond Final Locked Door, 4
+Water Temple Lobby, 0
+Water Temple Highest Water Level, 3
+Water Temple Dive, 5
+Water Temple North Basement, 3
+Water Temple Cracked Wall, 1
+Water Temple Dragon Statue, 1
+Water Temple Middle Water Level, 2
+Water Temple Dark Link Region, 5
